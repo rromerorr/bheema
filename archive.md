@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Archive
+title: Blog
 permalink: /archive/
 ---
 
