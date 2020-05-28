@@ -3,7 +3,7 @@ layout: post
 title:  "Hello and Goodbye"
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
-img: lost-2.jpg
+img: ExpandPerspectives_Screenshot.png
 categories: [one, two]
 ---
 Why did the edits not show?
